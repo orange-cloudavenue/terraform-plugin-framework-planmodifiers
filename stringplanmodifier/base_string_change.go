@@ -5,8 +5,9 @@ import (
 	"context"
 
 	"github.com/hashicorp/terraform-plugin-framework/diag"
-	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
+
+	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 )
 
 // StringChangeFunc is a function that can be used to change a string value.
@@ -24,7 +25,7 @@ type StringChangeFuncResponse struct {
 
 // setStringChangeFunc
 //
-// Change the value of the strinf
+// Change the value of the strinf.
 func setChangeStringFunc(f StringChangeFunc, description, markdownDescription string) planmodifier.String {
 	return stringChangeFuncPlanModifier{
 		f:                   f,

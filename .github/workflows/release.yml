@@ -21,15 +21,17 @@ jobs:
       TOKEN: ${{ secrets.CHANGELOG_PAT }}
 
   golang-ci-lint:
+    needs: [pre-check]
     name: "GolangCI Lint"
     uses: orange-cloudavenue/workflows/.github/workflows/go_golangci-lint.yml@main
 
   tests:
+    needs: [pre-check]
     name: "Unit Tests"
     uses: orange-cloudavenue/workflows/.github/workflows/go_unit-test.yml@main
 
   tag:
-    needs: [pre-check]
+    needs: [golang-ci-lint, tests]
     name: Tag
     uses: orange-cloudavenue/workflows/.github/workflows/tag_create-tag.yml@main
     with:
