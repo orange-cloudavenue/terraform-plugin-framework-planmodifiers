@@ -7,7 +7,7 @@ It will be used into the `PlanModifiers` field of the `schema.StringAttribute` s
 
 ```go
 import (
-    fstringplanmodifier "github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/stringplanmodifier"
+    fstringplanmodifier "github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/stringplanmodifier"
 )
 ```
 

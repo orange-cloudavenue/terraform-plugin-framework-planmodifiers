@@ -7,7 +7,7 @@ I will be used into the `PlanModifiers` field of the `schema.BoolAttribute` stru
 
 ```go
 import (
-    fboolplanmodifier "github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/boolplanmodifier"
+    fboolplanmodifier "github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/boolplanmodifier"
 )
 ```
 

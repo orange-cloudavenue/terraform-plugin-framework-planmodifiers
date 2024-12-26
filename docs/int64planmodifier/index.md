@@ -7,7 +7,7 @@ I will be used into the `PlanModifiers` field of the `schema.Int64Attribute` str
 
 ```go
 import (
-    fint64planmodifier "github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/int64planmodifier"
+    fint64planmodifier "github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/int64planmodifier"
 )
 ```
 

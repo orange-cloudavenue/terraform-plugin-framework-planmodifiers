@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 
-	"github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/int64planmodifier"
+	"github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/int64planmodifier"
 )
 
 func TestDefaultModifierPlanModifyInt64(t *testing.T) {

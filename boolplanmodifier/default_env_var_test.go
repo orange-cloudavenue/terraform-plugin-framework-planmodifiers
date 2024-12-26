@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 
-	"github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/boolplanmodifier"
+	"github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/boolplanmodifier"
 )
 
 func TestDefaultEnvVarModifierPlanModifyBool(t *testing.T) {

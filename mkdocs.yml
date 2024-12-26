@@ -37,5 +37,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-repo_url: https://github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers
-repo_name: FrangipaneTeam/terraform-plugin-framework-planmodifiers
+repo_url: https://github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers
+repo_name: orange-cloudavenue/terraform-plugin-framework-planmodifiers

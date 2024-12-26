@@ -12,7 +12,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/types"
 	"github.com/hashicorp/terraform-plugin-go/tftypes"
 
-	"github.com/FrangipaneTeam/terraform-plugin-framework-planmodifiers/boolplanmodifier"
+	"github.com/orange-cloudavenue/terraform-plugin-framework-planmodifiers/boolplanmodifier"
 )
 
 func Test_requireReplaceIfBool(t *testing.T) {

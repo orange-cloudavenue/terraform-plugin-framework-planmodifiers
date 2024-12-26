@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to the **FrangipaneTeam Terraform Framework Plan Modifiers** documentation site
+Welcome to the **orange-cloudavenue Terraform Framework Plan Modifiers** documentation site
 This repository contains a collections of plan modifiers for the Terraform Plugin Framework.
 
 ## Plan Modifiers
