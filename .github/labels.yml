@@ -13,6 +13,11 @@
   color: "#5319E7"
   description: "Deprecated feature"
 
+# Language
+- name: "go"
+  color: "#00ADD8"
+  description: "Language Golang"
+
 # Conventional commits (set by Action )
     
 - name: "breaking-change"
@@ -62,4 +67,22 @@
 - name: "priority-low"
   color: "#0052CC"
   description: "Priority low"
+
+# PR Size
+- name: "size/XS"
+  color: "#0E8A16"
+  description: "Extra small PR"
+- name: "size/S"
+  color: "#0052CC"
+  description: "Small PR"
+- name: "size/M"
+  color: "#FFD700"
+  description: "Medium PR"
+- name: "size/L"
+  color: "#FFA500"
+  description: "Large PR"
+- name: "size/XL"
+  color: "#B60205"
+  description: "Extra large PR"
+
 
