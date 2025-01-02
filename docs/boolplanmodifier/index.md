@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # Bool Plan Modifiers
 
 Bool plan modifiers are used to modify the plan of a bool attribute.

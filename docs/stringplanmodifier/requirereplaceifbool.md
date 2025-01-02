@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # `RequireReplaceIfBool`
 
 This plan modifier is used to require a resource to be replaced if a boolean attribute is set to a expected value.

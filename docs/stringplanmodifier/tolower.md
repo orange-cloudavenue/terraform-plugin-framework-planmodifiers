@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # `ToLower`
 
 This plan modifier is used to force the string to be lowercase.
@@ -47,4 +52,3 @@ resource "resource_x" "example" {
   ],
 }
 ```
-

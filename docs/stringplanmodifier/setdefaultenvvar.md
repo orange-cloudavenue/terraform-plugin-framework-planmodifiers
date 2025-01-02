@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # `SetDefaultEnvVar`
 
 This plan modifier is used to set a default value for a string from an environment variable.

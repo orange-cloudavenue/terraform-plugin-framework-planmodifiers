@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # `ToUpper`
 
 This plan modifier is used to force the string to be uppercase.

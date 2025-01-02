@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # `SetDefaultFunc`
 
 This plan modifier is used to set a default value for a boolean using a custom function.
