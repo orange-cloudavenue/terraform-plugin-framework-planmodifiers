@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # `SetDefaultEnvVar`
 
 This plan modifier is used to set a default value for a int64 from an environment variable.

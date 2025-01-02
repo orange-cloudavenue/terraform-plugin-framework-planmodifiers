@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # `SetDefaultEmptyString`
 
 This plan modifier is used to set a default empty value for a string.

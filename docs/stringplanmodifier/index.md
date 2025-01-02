@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # String Plan Modifiers
 
 String plan modifiers are used to modify the plan of a string attribute.

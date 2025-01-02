@@ -1,6 +1,10 @@
+---
+hide:
+    - navigation
+---
 # Int64 Plan Modifiers
 
-BoInt64ol plan modifiers are used to modify the plan of a int64 attribute.
+Int64 plan modifiers are used to modify the plan of a int64 attribute.
 I will be used into the `PlanModifiers` field of the `schema.Int64Attribute` struct.
 
 ## How to use it
