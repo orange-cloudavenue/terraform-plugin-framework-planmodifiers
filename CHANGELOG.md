@@ -1,4 +1,5 @@
 ## 1.5.0 (Unreleased)
+## 1.4.1 (March  2, 2025)
 
 ### :dependabot: **Dependencies**
 
