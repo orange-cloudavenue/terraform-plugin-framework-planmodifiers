@@ -1,0 +1,3 @@
+```release-note:feature
+Add `int32planmodifier` plan modifiers and docs for `int32` type
+```

@@ -15,6 +15,7 @@ This repository contains a collections of plan modifiers for the Terraform Plugi
 
 - [:fontawesome-solid-flag: **String Plan Modifiers**](stringplanmodifier/index.md)
 - [:fontawesome-solid-flag: **Bool Plan Modifiers**](boolplanmodifier/index.md)
+- [:fontawesome-solid-flag: **Int32 Plan Modifiers**](int32planmodifier/index.md)
 - [:fontawesome-solid-flag: **Int64 Plan Modifiers**](int64planmodifier/index.md)
 
 </div>

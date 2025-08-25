@@ -24,6 +24,7 @@ nav:
   - How to use: "getting-started.md"
   - String: "stringplanmodifier/index.md"
   - Bool: "boolplanmodifier/index.md"
+  - Int32: "int32planmodifier/index.md"
   - Int64: "int64planmodifier/index.md"
   - ⇗ Other projects: "https://orange-cloudavenue.github.io/projects"
 
